@@ -2,14 +2,14 @@
 body {
     height: 100%;
     width: 100%;
-    background-color: #EDEDED;
+    background-color: #355C7D;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* Navbar */
 .navigation {
     color: white;
     font-family: sans-serif;
-    background-color: #0BADA6;
+    background-color: #6C5B7B;
     font-weight: bold;
     padding: inherit;
 }
@@ -17,7 +17,7 @@ body {
     color: white;
     font-family: Verdana;
     font-size: 30px;
-    background-color: #0BADA6;
+    background-color: #F8B195;
     font-weight: bold;
     margin-left: 30px;
     padding: 10px;
@@ -25,7 +25,7 @@ body {
 }
 .navbar {
     max-height: 70px;
-    background-color: white;
+    background-color: #6C5B7B;
     font-size: 16px;
 }
 .dropdown-item{
@@ -33,13 +33,13 @@ body {
 }
 /* Show different color when hovering over items on the navbar */
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
-    background-color:#E7E7E7; 
+    background-color:#F8B195; 
 }
 .navigation .nav-link:hover{
-    background-color:#E7E7E7;
+    background-color:#C06C84;
    }
 .navigation .navbar-brand:hover{
-    color: rgb(200, 248, 246);
+    color: rgb(255, 255, 255);
 }
 .container {
     width: 100%;
@@ -54,11 +54,11 @@ img {
     height: 100%;
 }
 .image-fluid:hover{
-    border-color: #0BADA6;
+    border-color: #F8B195;
     border-style: solid;
 }
 .image-active {
-    border-color:#0BADA6;
+    border-color:#F8B195;
     border-style: solid; 
 }
 /* Surrond imgage with text */
@@ -68,7 +68,7 @@ img {
 }
 /* Title */
 .title {
-    color: #0BADA6;  
+    color: #C06C84;  
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder; 
     padding-top: 25px; 
@@ -84,7 +84,7 @@ p {
     margin-top: 50px;
     margin-bottom: 40px;
     padding: 10px 20px 15px;
-    color: black;
+    color: #6C5B7B;
     background-color: white;
 }
 
@@ -94,10 +94,10 @@ p {
 }
 /* Footer */
 footer {
-    background-color: lightslategrey; 
+    background-color: #6C5B7B; 
     border-top-style: solid; 
     border-top-width: 3px; 
-    border-top-color: #0BADA6;
+    border-top-color: #F8B195;
     color: white; 
     min-height: 55px; 
     font-family: Arial, Helvetica, sans-serif;
@@ -111,7 +111,7 @@ footer {
 .navbar-brand {
     color: white;
     font-size: 30px;
-    background-color: #0BADA6;
+    background-color: #F8B195;
     padding: 10px;
 }
 .navbar{
